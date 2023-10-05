@@ -1,0 +1,204 @@
+{
+    "bookmarks": {
+        "CB 01": {
+            "bandwidth": 2800.0,
+            "frequency": 26965000.0,
+            "mode": 6
+        },
+        "CB 02": {
+            "bandwidth": 2800.0,
+            "frequency": 26975000.0,
+            "mode": 6
+        },
+        "CB 03": {
+            "bandwidth": 2800.0,
+            "frequency": 26985000.0,
+            "mode": 6
+        },
+        "CB 04": {
+            "bandwidth": 2800.0,
+            "frequency": 27005000.0,
+            "mode": 6
+        },
+        "CB 05": {
+            "bandwidth": 2800.0,
+            "frequency": 27015000.0,
+            "mode": 6
+        },
+        "CB 06": {
+            "bandwidth": 2800.0,
+            "frequency": 27025000.0,
+            "mode": 6
+        },
+        "CB 07": {
+            "bandwidth": 2800.0,
+            "frequency": 27035000.0,
+            "mode": 6
+        },
+        "CB 08": {
+            "bandwidth": 2800.0,
+            "frequency": 27055000.0,
+            "mode": 6
+        },
+        "CB 09": {
+            "bandwidth": 2800.0,
+            "frequency": 27065000.0,
+            "mode": 6
+        },
+        "CB 10": {
+            "bandwidth": 2800.0,
+            "frequency": 27075000.0,
+            "mode": 6
+        },
+        "CB 11": {
+            "bandwidth": 2800.0,
+            "frequency": 27085000.0,
+            "mode": 6
+        },
+        "CB 12": {
+            "bandwidth": 2800.0,
+            "frequency": 27105000.0,
+            "mode": 6
+        },
+        "CB 13": {
+            "bandwidth": 2800.0,
+            "frequency": 27115000.0,
+            "mode": 6
+        },
+        "CB 14": {
+            "bandwidth": 2800.0,
+            "frequency": 27125000.0,
+            "mode": 6
+        },
+        "CB 15": {
+            "bandwidth": 2800.0,
+            "frequency": 27135000.0,
+            "mode": 6
+        },
+        "CB 16": {
+            "bandwidth": 2800.0,
+            "frequency": 27155000.0,
+            "mode": 6
+        },
+        "CB 17": {
+            "bandwidth": 2800.0,
+            "frequency": 27165000.0,
+            "mode": 6
+        },
+        "CB 18": {
+            "bandwidth": 2800.0,
+            "frequency": 27175000.0,
+            "mode": 6
+        },
+        "CB 19": {
+            "bandwidth": 2800.0,
+            "frequency": 27185000.0,
+            "mode": 6
+        },
+        "CB 20": {
+            "bandwidth": 2800.0,
+            "frequency": 27205000.0,
+            "mode": 6
+        },
+        "CB 21": {
+            "bandwidth": 2800.0,
+            "frequency": 27215000.0,
+            "mode": 6
+        },
+        "CB 22": {
+            "bandwidth": 2800.0,
+            "frequency": 27225000.0,
+            "mode": 6
+        },
+        "CB 23": {
+            "bandwidth": 2800.0,
+            "frequency": 27255000.0,
+            "mode": 6
+        },
+        "CB 24": {
+            "bandwidth": 2800.0,
+            "frequency": 27235000.0,
+            "mode": 6
+        },
+        "CB 25": {
+            "bandwidth": 2800.0,
+            "frequency": 27245000.0,
+            "mode": 6
+        },
+        "CB 26": {
+            "bandwidth": 2800.0,
+            "frequency": 27265000.0,
+            "mode": 6
+        },
+        "CB 27": {
+            "bandwidth": 2800.0,
+            "frequency": 27275000.0,
+            "mode": 6
+        },
+        "CB 28": {
+            "bandwidth": 2800.0,
+            "frequency": 27285000.0,
+            "mode": 6
+        },
+        "CB 29": {
+            "bandwidth": 2800.0,
+            "frequency": 27295000.0,
+            "mode": 6
+        },
+        "CB 30": {
+            "bandwidth": 2800.0,
+            "frequency": 27305000.0,
+            "mode": 6
+        },
+        "CB 31": {
+            "bandwidth": 2800.0,
+            "frequency": 27315000.0,
+            "mode": 6
+        },
+        "CB 32": {
+            "bandwidth": 2800.0,
+            "frequency": 27325000.0,
+            "mode": 6
+        },
+        "CB 33": {
+            "bandwidth": 2800.0,
+            "frequency": 27335000.0,
+            "mode": 6
+        },
+        "CB 34": {
+            "bandwidth": 2800.0,
+            "frequency": 27345000.0,
+            "mode": 6
+        },
+        "CB 35": {
+            "bandwidth": 2800.0,
+            "frequency": 27355000.0,
+            "mode": 6
+        },
+        "CB 36": {
+            "bandwidth": 2800.0,
+            "frequency": 27365000.0,
+            "mode": 6
+        },
+        "CB 37": {
+            "bandwidth": 2800.0,
+            "frequency": 27375000.0,
+            "mode": 6
+        },
+        "CB 38": {
+            "bandwidth": 2800.0,
+            "frequency": 27385000.0,
+            "mode": 6
+        },
+        "CB 39": {
+            "bandwidth": 2800.0,
+            "frequency": 27395000.0,
+            "mode": 6
+        },
+        "CB 40": {
+            "bandwidth": 2800.0,
+            "frequency": 27405000.0,
+            "mode": 6
+        }
+    }
+}

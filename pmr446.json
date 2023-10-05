@@ -1,0 +1,84 @@
+{
+    "bookmarks": {
+        "PMR 01": {
+            "bandwidth": 12500.0,
+            "frequency": 446006250.0,
+            "mode": 0
+        },
+        "PMR 02": {
+            "bandwidth": 12500.0,
+            "frequency": 446018750.0,
+            "mode": 0
+        },
+        "PMR 03": {
+            "bandwidth": 12500.0,
+            "frequency": 446031250.0,
+            "mode": 0
+        },
+        "PMR 04": {
+            "bandwidth": 12500.0,
+            "frequency": 446043750.0,
+            "mode": 0
+        },
+        "PMR 05": {
+            "bandwidth": 12500.0,
+            "frequency": 446056250.0,
+            "mode": 0
+        },
+        "PMR 06": {
+            "bandwidth": 12500.0,
+            "frequency": 446068750.0,
+            "mode": 0
+        },
+        "PMR 07": {
+            "bandwidth": 12500.0,
+            "frequency": 446081250.0,
+            "mode": 0
+        },
+        "PMR 08": {
+            "bandwidth": 12500.0,
+            "frequency": 446093750.0,
+            "mode": 0
+        },
+        "PMR 09": {
+            "bandwidth": 12500.0,
+            "frequency": 446106250.0,
+            "mode": 0
+        },
+        "PMR 10": {
+            "bandwidth": 12500.0,
+            "frequency": 446118750.0,
+            "mode": 0
+        },
+        "PMR 11": {
+            "bandwidth": 12500.0,
+            "frequency": 446131250.0,
+            "mode": 0
+        },
+        "PMR 12": {
+            "bandwidth": 12500.0,
+            "frequency": 446143750.0,
+            "mode": 0
+        },
+        "PMR 13": {
+            "bandwidth": 12500.0,
+            "frequency": 446156250.0,
+            "mode": 0
+        },
+        "PMR 14": {
+            "bandwidth": 12500.0,
+            "frequency": 446168750.0,
+            "mode": 0
+        },
+        "PMR 15": {
+            "bandwidth": 12500.0,
+            "frequency": 446181250.0,
+            "mode": 0
+        },
+        "PMR 16": {
+            "bandwidth": 12500.0,
+            "frequency": 446193750.0,
+            "mode": 0
+        }
+    }
+}
